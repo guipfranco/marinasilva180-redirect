@@ -48,10 +48,6 @@ Não. Foi ministra do Meio Ambiente e Mudança do Clima de 2023 a 2026 e deixou 
 
 A Coligação Desperta São Paulo, o presidente Lula e a chapa de Fernando Haddad ao governo de São Paulo, da qual também faz parte Simone Tebet (PSB, 400), a outra candidata ao Senado.
 
-## Quem é Marco Martins?
-
-O candidato a deputado federal (Rede, 1800) que forma com ela a dobrada "Marina no Senado, Marco na Câmara". Arquiteto, foi assessor especial dela no Ministério do Meio Ambiente.
-
 ## Ricardo Salles ainda é candidato ao Senado por São Paulo?
 
 Não. Desistiu em 28 de setembro de 2026 e declarou apoio a Guilherme Derrite (PP, 111) e André do Prado (PL, 222).
@@ -69,5 +65,4 @@ Em marinasilva.org.br. Este site, marinasilva180.com.br, é mantido pela mesma c
 <li><a href="https://www.tre-sp.jus.br/comunicacao/noticias/2026/Agosto/eleicoes-2026-confira-a-ordem-dos-6-votos-na-urna-e-como-usar-a-colinha-eleitoral">TRE-SP, ordem dos seis votos na urna</a>.</li>
 <li><a href="https://www.metropoles.com/sao-paulo/ricardo-salles-desiste-de-candidatura-ao-senado-apos-acordo-com-tarcisio">Metrópoles, desistência de Ricardo Salles</a> (28/09/2026).</li>
 <li><a href="https://www.poder360.com.br/poder-eleicoes-2026/saiba-quem-sao-os-candidatos-ao-senado-apoiados-por-lula-em-2026/">Poder360, candidatos ao Senado apoiados por Lula</a>.</li>
-<li><a href="https://www.marcomartins.org/">Site de Marco Martins</a>.</li>
 </ul>

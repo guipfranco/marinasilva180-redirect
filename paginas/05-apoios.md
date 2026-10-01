@@ -23,10 +23,6 @@ Cada candidato ao Senado registra dois suplentes, que assumem se o titular se af
 
 Em São Paulo, o presidente Lula apoia as duas candidatas ao Senado da chapa de Fernando Haddad (PT) ao governo: **Marina Silva (Rede, 180)** e **Simone Tebet (PSB, 400)**. Como o estado elege dois senadores, as duas podem ser eleitas juntas.
 
-## A dobrada com Marco Martins
-
-Para deputado federal, a campanha de Marina caminha com **Marco Martins (Rede, 1800)**, arquiteto, ex-assessor especial dela no Ministério do Meio Ambiente. Detalhes em [Marina Silva e Marco Martins](/marina-silva-e-marco-martins/).
-
 ## Fontes
 
 <ul class="fontes">
@@ -36,5 +32,4 @@ Para deputado federal, a campanha de Marina caminha com **Marco Martins (Rede, 1
 <li><a href="https://csb.org.br/nacional/antonio-neto-anuncia-segunda-suplencia-marina-silva">CSB, "Antonio Neto anuncia compor segunda suplência de Marina Silva ao Senado"</a>.</li>
 <li><a href="https://www.poder360.com.br/poder-eleicoes-2026/saiba-quem-sao-os-candidatos-ao-senado-apoiados-por-lula-em-2026/">Poder360, "Saiba quem são os candidatos ao Senado apoiados por Lula em 2026"</a>.</li>
 <li><a href="https://www.poder360.com.br/poder-eleicoes-2026/tebet-e-marina-criticam-desistencia-de-salles-rendeu-se-ao-centrao/">Poder360, "Tebet e Marina criticam desistência de Salles"</a> (28/09/2026): as duas na chapa de Haddad.</li>
-<li><a href="https://www.marcomartins.org/">Site de Marco Martins</a>: a dobrada "Marina no Senado, Marco na Câmara".</li>
 </ul>

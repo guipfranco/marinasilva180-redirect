@@ -10,7 +10,7 @@ publicado: 2026-10-01
 
 ## Por que 180
 
-O 18 é o número da Rede Sustentabilidade. Os candidatos ao Senado usam o número do partido mais um dígito: **180**. O candidato a deputado federal da mesma chapa, Marco Martins, usa 18 mais dois dígitos: **1800** (veja [Marina Silva e Marco Martins](/marina-silva-e-marco-martins/)).
+O 18 é o número da Rede Sustentabilidade. Os candidatos ao Senado usam o número do partido mais um dígito: **180**.
 
 ## Passo a passo na urna
 

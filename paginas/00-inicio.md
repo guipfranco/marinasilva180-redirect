@@ -15,7 +15,6 @@ publicado: 2026-10-01
 <li><a href="/quem-e-marina-silva-candidata-ao-senado-por-sao-paulo/">Quem é Marina Silva?</a> Biografia em datas, com fontes.</li>
 <li><a href="/propostas-de-marina-silva-para-o-senado/">O que Marina Silva propõe para o Senado?</a> As propostas da campanha e o que ela defendeu nos debates.</li>
 <li><a href="/quem-apoia-marina-silva-para-o-senado/">Quem apoia Marina Silva para o Senado?</a> A coligação, os suplentes e os apoios públicos.</li>
-<li><a href="/marina-silva-e-marco-martins/">Marina Silva e Marco Martins</a>: a dobrada "Marina no Senado, Marco na Câmara" (180 e 1800).</li>
 <li><a href="/edital-das-marinas/">O que é o Edital das Marinas?</a> R$ 4 milhões em emendas decididos por voto popular.</li>
 <li><a href="/perguntas-frequentes-marina-silva-senado/">Perguntas frequentes</a>: "ela é de São Paulo?", "por que o Senado?", "qual o partido?", "quem são os suplentes?".</li>
 </ul>
