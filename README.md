@@ -1,11 +1,15 @@
 # marinasilva180.com.br
 
-Página estática que redireciona `marinasilva180.com.br` (domínio remetente dos e-mails da campanha)
-para o site oficial, `https://marinasilva.org.br/`. Hospedada no GitHub Pages.
+Hub da campanha de Marina Silva ao Senado por São Paulo (Rede, 180): páginas curtas que
+respondem, com fonte, o que as pessoas e os assistentes de IA perguntam sobre a candidatura.
+Até 2026-10-01 o domínio era só um redirect com `noindex` para marinasilva.org.br.
 
-- `index.html` e `404.html`: redirecionamento imediato (meta refresh + JavaScript), com `canonical`
-  apontando para o site oficial e `noindex` para não competir no Google.
-- `CNAME`: domínio personalizado do GitHub Pages.
+- Conteúdo: `paginas/*.md` (cabeçalho `chave: valor` + corpo em Markdown). Editar aqui.
+- Build: `pip install markdown` e `python build.py`. Gera `index.html`, `<slug>/index.html`,
+  `robots.txt`, `sitemap.xml` e `404.html` na raiz, que é o que o GitHub Pages serve.
+- Identificação eleitoral: rodapé em toda página (texto em `build.py`; `CNPJ` fica vazio até o
+  jurídico confirmar).
+- Design: tokens do design system da campanha (`06-design/` no repo marina-senado).
 
-DNS (registro.br): 4 registros A da raiz para os IPs do GitHub Pages e `www` em CNAME para
-`guipfranco.github.io`.
+Regras do conteúdo: resposta direta nas primeiras linhas, nenhum fato sem fonte com link,
+nenhum ataque a adversário, data de atualização visível, nenhuma pesquisa eleitoral.
